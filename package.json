@@ -1,0 +1,18 @@
+{
+  "name": "signed-common-nodejs",
+  "version": "1.0.0",
+  "description": "A common NPM package used by all Signed components",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/signed-project/signed-common-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/signed-project/signed-common-nodejs/issues"
+  },
+  "homepage": "https://github.com/signed-project/signed-common-nodejs#readme"
+}
